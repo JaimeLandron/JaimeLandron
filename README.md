@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaimeLandron
 - 👀 I’m interested in Sports, Gaming 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on nothing as of yet( still learning)
+- 💞️ I’m looking to collaborate in the near future, as of yet I am still learning.
 - 📫 How to reach me is through email
 
 <!---
